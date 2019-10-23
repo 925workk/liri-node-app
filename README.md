@@ -29,4 +29,13 @@
 
 # Screenshots of results below:
 Movie-this:
-![Movie](/images/movie)
+
+![Movie](/images/movie.png)
+
+Concert-this:
+
+![Concert](/images/concert.png)
+
+Spotfiy-this-song:
+
+![Spotfy](/images/song.png)
