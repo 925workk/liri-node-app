@@ -3,9 +3,9 @@
 ## Instructions (Once files are cloned onto the local machine with node installed).
 1. Open liri.js in the terminal and run the following commands to install the packages.
 
-    npm install axios
-    npm install moment
-    npm install node-spotify-api
+    >npm install axios
+    >npm install moment
+    >npm install node-spotify-api
 
 1. You will need to go to https://developer.spotify.com/my-applications/#!/ to create an app and recieve your Spotfiy keys. Create a file named .env, add the following to it, replacing the values with your API keys (no quotes) once you have them:
 
