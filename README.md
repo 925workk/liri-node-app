@@ -30,12 +30,12 @@
 # Screenshots of results below:
 Movie-this:
 
-![Movie](https://ibb.co/nQ61KYB)
+![Movie](https://i.ibb.co/vLVdMTh/movie.png)
 
 Concert-this:
 
-![Concert](https://ibb.co/5jYQzrC)
+![Concert](https://i.ibb.co/kD3Lr4z/concert.png)
 
 Spotfiy-this-song:
 
-![Spotfy](https://ibb.co/61QJ5h5)
+![Spotfy](https://i.ibb.co/cCqXd5d/song.png)
