@@ -47,8 +47,8 @@ function spotifyThis(arg) {
             if (err) {
                 return console.log('Error occurred: ' + err);
             }
+            console.log("Song Name: " + arg);
             console.log("Artist: " + data.tracks.items[0].artists[0].name);
-            console.log("Song Name: " + data.tracks.items[0].track.name);
             console.log("Album Name: " + data.tracks.items[0].album.name);
             console.log("Preview of Song: " + data.tracks.items[0].preview_url);
         });
